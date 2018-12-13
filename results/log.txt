@@ -1,0 +1,5 @@
+f1=(2*precision*recall)/(precision+recall), with 50% or more overlap with groundtruth.
+mo=mean overlap.
+iVid	vName	f1_reg	mo_reg	f1_rect	mo_rect	time
+1	Crossing	1.000	0.751	1.000	0.712	373.53
+1	Crossing	1.000	0.751	1.000	0.712	354.09
